@@ -12,7 +12,7 @@
 </ul>
 <h2 id="hto">How to operate</h2>
 <ul>
-<li>To execute the script: "./script.ps1"</li>
+<li>To execute the script: `./script.ps1`</li>
 <li>Now you can use the application.</li>
 </ul>
 <h2 id="license">License</h2>
